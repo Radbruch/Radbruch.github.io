@@ -4,9 +4,9 @@ url: "https://radbruch.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: ZhouWeichen                                    # site's title
-description: "A website with blog posts and pages"      # used by search engines
+description: "Zhou Weichen"            # used by search engines
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
+favicon: assets/graphic.ico                             # Icon displayed in the tab
 
 # Header and footer text
 header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
@@ -55,3 +55,4 @@ exclude: [".jekyll-cache", ".jekyll-metadata", ".idea", "vendor/*", "assets/node
 
 # theme: type-on-strap                                  # if using the theme as a jekyll theme gem
 remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github
+port: 5000
