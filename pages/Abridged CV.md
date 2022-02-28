@@ -1,27 +1,26 @@
 ---
 layout: post
 title: Abridged CV
-feature-img: "assets/img/feature-img/rabbit.png"
+feature-img: "assets/img/feature-img/bath.png"
 excerpt_separator: ""
-tags: [cv]
+tags: [CV]
 ---
 
 
-😉 Click the half-moon most top-right button to turn the lights on/off.     
-  
 
 
-# 周玮晨(Weichen Zhou) 
+
+# 周玮晨(Weichen Zhou)
 
 ## Education
 2014 ~ 2018: Bachelor of Management, Accounting (ACCA), East China Jiaotong University.    
-2019 ~ Now: MITx MicroMaster Program in Statistics and Data Science Program, edX. 
-    
+2019 ~ Now: MITx MicroMaster Program in Statistics and Data Science Program, edX.
+
 ## Related MOOCs I took
 #### Programming:
 * Introduction to Computer Science and Programming Using Python, edX, MIT 6.00.1.
 * Introduction to Computational Thinking and Data Science, edX, MIT 6.00.2.
-* CS 61A, UC Berkeley. 
+* CS 61A, UC Berkeley.
 * Nand to Tetris, Hebrew University.
 * Computational Structures, 6.004, MIT.
 * CS 61B, UC Berkeley.
@@ -35,7 +34,7 @@ tags: [cv]
 * Probability - The Science of Uncertainty and Data, edX, MIT 6.431x.
 * Fundamentals of Statistics, edX, MIT 18.6501x.
 * Linear Algebra, 18.06, MIT
-    
+
 #### Skills
 * English Proficiency: IELTS 6.0/9.
 * Programming Languages: Java, Python and could use Python packages including Pytorch, Numpy, pandas.
