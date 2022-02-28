@@ -57,4 +57,3 @@ exclude: [".jekyll-cache", ".jekyll-metadata", ".idea", "vendor/*", "assets/node
 remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github
 port: 5000
 
-markdown: kramdown
