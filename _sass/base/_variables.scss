@@ -55,17 +55,17 @@ html[data-theme="dark"] {
   --blockquote: #373e47; // blockquote
   --selection: #545d68; // selection
   --meta: #909dab; // meta
-  --link: #00a8e0; // theme, link, link shadow header bg
+  --link: rgba(159, 35, 127, 0.94); // theme, link, link shadow header bg
   --header-background: #2A3444; // Color before header image load
-  --header-text: #e7f3f4; // header text, feature img text
+  --header-text: rgb(240, 96, 39); // header text, feature img text
   --header-link: #adbac7; // header link, search color
   --code-background: #2A3444;
   --code-inline: #d9b600;
   --text-shadow: #2d333b; // text shadow
-  --text: #cdd9e5; // text
+  --text: #004e98; // text
   --h1: #d40059; // headers
-  --h2: #b37eff;
-  --h3: #ff66c2;
+  --h2: #7b58ae;
+  --h3: #d958a7;
   --h4: #00af9e;
   --h5: #6bac00;
   --h6: #ff5c00;
