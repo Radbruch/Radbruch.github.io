@@ -2,6 +2,7 @@
 layout: post
 title: Elementary Sorts -- rules of the game (Java)
 categories: ["Java"]
+excerpt_separator: ""
 tags: [Java]
 ---
 

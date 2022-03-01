@@ -2,6 +2,7 @@
 layout: post
 title: Elementary Sorts
 categories: ["Java"]
+excerpt_separator: ""
 tags: [Java]
 ---
 

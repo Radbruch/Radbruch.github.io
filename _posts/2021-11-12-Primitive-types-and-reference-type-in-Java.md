@@ -2,6 +2,7 @@
 layout: post
 title: Primitive types and reference type in Java
 categories: ["Java"]
+excerpt_separator: ""
 tags: [Java]
 ---
 

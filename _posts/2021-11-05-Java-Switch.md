@@ -2,6 +2,7 @@
 layout: post
 title: Java Switch
 categories: ["Java"]
+excerpt_separator: ""
 tags: [Java]
 ---
 
