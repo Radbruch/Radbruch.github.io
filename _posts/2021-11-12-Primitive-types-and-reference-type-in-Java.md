@@ -36,14 +36,14 @@ Equal sign("=") just copies the bits.
 
 When we instantiate an object:
 
-![p1]( /assets/img/PrimitiveType/p1.jpg)
-![p2]( /assets/img/PrimitiveType/p2.jpg)
-![p3]( /assets/img/PrimitiveType/p3.jpg)
+![p1]( /assets/img/primitivetype/p1.jpg)
+![p2]( /assets/img/primitivetype/p2.jpg)
+![p3]( /assets/img/primitivetype/p3.jpg)
 
 与给变量赋一个primitive type 不同，reference type 相当于给变量创建一个 instruction memory，对应的是该实例的位置(64 bits)，而primitive type是给变量创建一个data memory，这个memory直接储存了对应的二进制的值。这就是为什么：
 
-![p4]( /assets/img/PrimitiveType/p4.jpg)
+![p4]( /assets/img/primitivetype/p4.jpg)
 
 Reference types关于区分 declaration 和 instantiation( 用array举例）：
 
-![p5]( /assets/img/PrimitiveType/p5.jpg)
+![p5]( /assets/img/primitivetype/p5.jpg)
