@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Elementary Sorts -- rules of the game (Java)
-categories: ["Java"]
+categories: ["Algorithms"]
 excerpt_separator: ""
-tags: [Java]
+tags: [Algorithms]
 ---
 
 

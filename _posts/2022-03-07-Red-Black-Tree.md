@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Red Black Tree（Left-leaning）
-categories: ["Java"]
+categories: ["Data Structure"]
 excerpt_separator: ""
-tags: [Java]
+tags: [Data Structure]
 ---
 
 ### 一、树的旋转

@@ -4,7 +4,7 @@ title: Blog
 subtitle: My Notebook
 header_feature_image: "assets/img/feature-img/bath.png"
 permalink: /blog/
-tags: [Java]
+
 ---
 {% assign is_first = true %}
 {% for post in site.posts %}

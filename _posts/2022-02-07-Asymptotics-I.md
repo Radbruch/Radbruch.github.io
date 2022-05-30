@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Asymptotics I -- An Introduction to Asymptotic Analysis
-categories: ["Java"]
+categories: ["Algorithms"]
 excerpt_separator: ""
-tags: [Java]
+tags: [Algorithms]
 ---
 
 ### Efficiency comes in two flavors:
@@ -208,8 +208,8 @@ Whereas big theta can informally be thought of as something like 'equals', big O
 ![p8]( /assets/img/AsymptoticsI/p8.png)
 ![p9]( /assets/img/AsymptoticsI/p9.png)
 
-Big-theta 强调表达“等于”，一般用于对具体情况下runtime的描述，比如：The worst case runtime is $ \zeta(N^2) $ , the best case runtime is [公式] ，需要有一个明确的对situation的界定。  
-Big-O 强调表达“小于或等于”，不需要有具体的situation，比如：the runtime is [公式] , 表达的是整体的runtime都小于或等于 [公式] 。  
+Big-theta 强调表达“等于”，一般用于对具体情况下runtime的描述，比如：The worst case runtime is Θ(N²) , the best case runtime is Θ(1) ，需要有一个明确的对situation的界定。  
+Big-O 强调表达“小于或等于”，不需要有具体的situation，比如：the runtime is O(N²) , 表达的是整体的runtime都小于或等于 N² 。  
 To summarize the usefulness of Big O:
 * It allows us to make simple statements without case qualifications, in cases where the runtime is different for different inputs.
 * Sometimes, for particularly tricky problems, we (the computer science community) don't know the exact runtime, so we may only state an upper bound.
