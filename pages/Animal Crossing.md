@@ -6,6 +6,7 @@ permalink: /AnimalCrossing/
 animalcrossing_path: "assets/img/animalcrossing"
 tags: [picture]
 feature-img: "assets/img/blog/background1.png"
+music-id: 1882641218
 
 ---
 

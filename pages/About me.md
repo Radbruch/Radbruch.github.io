@@ -4,10 +4,8 @@ title: About me
 feature-img: "assets/img/feature-img/bath.png"
 excerpt_separator: ""
 tags: [CV]
-music-id: <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=110 height=30 src="//music.163.com/outchain/player?type=2&id=1465548364&auto=1&height=66"></iframe>
+music-id: "1442047041"
 ---
-
-
 
 
 
@@ -57,3 +55,6 @@ music-id: <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" w
 
 
 ![photo]( /assets/img/cv/photo.png)
+
+
+

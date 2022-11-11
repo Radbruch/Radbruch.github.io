@@ -2,10 +2,12 @@
 layout: default
 ---
 
+<!-- Music -->
+<audio  autoplay="autoplay" loop="loop" preload="auto" id="music" volume=0.1>
+   <source src="http://music.163.com/song/media/outer/url?id={{ page.music-id }}" audio="" >
+</audio>
+
 <article {% if page.feature-img %}class="feature-image"{% endif %}>
-
-
-
   <header id="main" style="background-image: url('{{ page.feature-img | relative_url }}')">
     <div class="title-padder">
       {% if page.hide_title %}

@@ -20,13 +20,15 @@
     <i class="fas fa-bars fa-lg"></i>
     </a>
 
+
+
+
     <!-- Menu -->
     <ul class="hide">
         {% assign name_page = "" %}
 
-        <audio  autoplay="autoplay" loop  id="music">
-	        <source src="http://music.163.com/song/media/outer/url?id=1465548364" audio="" >
-        </audio>
+
+
 
         {% for page in site.pages %}
             {% unless page.title == null or page.hide or name_page contains page.title %}
