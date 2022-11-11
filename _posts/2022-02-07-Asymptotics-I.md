@@ -220,3 +220,6 @@ To summarize the usefulness of Big O:
 ![p10]( /assets/img/AsymptoticsI/p10.png)
 
 
+---
+
+{% include intensedebate-comments.html %}

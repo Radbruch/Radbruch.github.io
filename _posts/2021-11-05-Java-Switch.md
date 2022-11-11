@@ -42,4 +42,10 @@ reuse code and clarify the control flow.</b>
 
 Observe that the last example doesn't have a "default:" case. If "month" is
 not 1 nor 2 nor 11 nor 12, Java jumps right to the end of the "switch"
-statement (just past the closing brace) and continues execution from there.
+statement (just past the closing brace) and continues execution from there.   
+
+---
+
+
+
+{% include intensedebate-comments.html %}

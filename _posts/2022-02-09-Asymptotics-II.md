@@ -141,4 +141,8 @@ Merge sort 的 running time： 将长度为 N 的list拆分到长度为 1 ，需
 ![p7]( /assets/img/AsymptoticsII/p7.jpg)
   
 （不同runtime之间的对比）
-  
+
+
+---
+
+{% include intensedebate-comments.html %}

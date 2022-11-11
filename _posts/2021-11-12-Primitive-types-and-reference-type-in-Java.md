@@ -47,3 +47,7 @@ When we instantiate an object:
 Reference types关于区分 declaration 和 instantiation( 用array举例）：
 
 ![p5]( /assets/img/primitiveType/p5.jpg)
+
+---
+
+{% include intensedebate-comments.html %}

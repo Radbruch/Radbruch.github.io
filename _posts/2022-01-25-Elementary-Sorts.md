@@ -127,7 +127,11 @@ public class Shell {
     private static void exchange(Comparable[] a, int i, int j)
     { /* as before */ }
 }
-{% endhighlight %}
+{% endhighlight %}   
+
+---
+
+{% include intensedebate-comments.html %}
 
 
 

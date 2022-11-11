@@ -126,3 +126,7 @@ The **height** of the tree determines the worst-case runtime, because in the wor
 
 The **average depth** determines the average-case runtime, average-case = average depth + 1.
 
+
+---
+
+{% include intensedebate-comments.html %}

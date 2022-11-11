@@ -251,3 +251,7 @@ Path compression 是对weighted quick union的优化，它要求每次call conne
 
 ![p25]( /assets/img/UnionFind/p25.jpg)
 
+
+---
+
+{% include intensedebate-comments.html %}

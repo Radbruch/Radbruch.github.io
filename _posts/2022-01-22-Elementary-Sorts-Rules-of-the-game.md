@@ -43,3 +43,7 @@ Java中有一些 build-in comparable types: Integer, Double, String, Date, File,
 
 最后用一个Test() function测试sort完后的object[] 是否符合sort要求：
 ![p4]( /assets/img/ElementarySortsRules/p4.png)  
+
+---
+
+{% include intensedebate-comments.html %}
