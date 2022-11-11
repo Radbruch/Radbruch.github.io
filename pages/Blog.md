@@ -4,7 +4,6 @@ title: Blog
 subtitle: My Notebook
 header_feature_image: "assets/img/feature-img/bath.png"
 permalink: /blog/
-
 ---
 {% assign is_first = true %}
 {% for post in site.posts %}
@@ -29,5 +28,5 @@ permalink: /blog/
     <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><span class="date"> - {{ post.date | date_to_long_string }}</span>
     </li>
 </ul>
-		  
+
 {% endfor %}
