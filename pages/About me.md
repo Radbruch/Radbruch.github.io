@@ -11,11 +11,11 @@ music-id: <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" w
 
 
 
-# 周玮晨(Weichen Zhou)
+# 周玮晨(Zhou Weichen)
 
 ## Education
 2014 ~ 2018: Bachelor of Management, Accounting (ACCA), East China Jiaotong University.    
-2019 ~ Now: MITx MicroMaster Program in computer science Program, edX.  
+2019 ~ Now: MITx MicroMaster Program in computer science program, edX.  
 2022 ~ Now: Master of Computer Science (Network Technology), Universiti Kebangsaan Malaysia.
 
 ## Related MOOCs I took
@@ -29,6 +29,7 @@ music-id: <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" w
 * [Algorithms, Princeton University.](https://github.com/Radbruch/Algorithems "Algorithms")
 * [CS106B: Programming Abstruction, Stanford University.](https://github.com/Radbruch/CS106b "CS 106b")
 * CS144: Introduction to Computer Networking, Stanford University.
+* Introduction to Theory of Computation, Neso Academy.
 
 #### Machine Learning:
 * Machine Learning, Coursera, Stanford University.
