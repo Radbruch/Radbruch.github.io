@@ -15,7 +15,8 @@ music-id: <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" w
 
 ## Education
 2014 ~ 2018: Bachelor of Management, Accounting (ACCA), East China Jiaotong University.    
-2019 ~ Now: MITx MicroMaster Program in Statistics and Data Science Program, edX.
+2019 ~ Now: MITx MicroMaster Program in computer science Program, edX.  
+2022 ~ Now: Master of Computer Science (Network Technology), Universiti Kebangsaan Malaysia.
 
 ## Related MOOCs I took
 #### Programming:
@@ -45,15 +46,13 @@ music-id: <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" w
 
 ## Related books I read
 
+- Introduction to the Theory of Computation (3rd Edition). *Michael Sipser.*
 - Computer Networking: A Top-Down Approach (7th Edition). *Jim Kurose, Keith Ross.*
 - The Elements of Computing Systems. *Noam Nisan, Shimon Schochen.*
 - SICP in Python. *UC Berkeley.*
 - Python Data Science Handbook. *Jake VanderPlas.*
 - Algorithms (4th Edition). *Robert Sedgewick, Kevin Wayne.*
 - Linear Algebra and Its Applications (5th Edition). *David C. Lay, Steven R. Lay, Judi J, McDonald.*
-
-## Programming Experience
-After graduating from college, I found myself fascinated by programming. In my spare time, I started to learn MIT 6.00.1. A lovely professor gave me a chance to get a glimpse into the world of computer language. For a deeper understanding, I studied CS61A. This course taught me recursion, function, class, and how to divide a problem into pieces and implement them abstractly. Having done those interesting homework and projects gave me sufficient confidence and curiosity, so I turned to study Nand2tetris. This course tells what is inside a computer. Even the simplest computers are complex to build. I paid plenty of effort trying to make everything works fine. After finishing this, I started to learn CS61B and Algorithms. They taught me fundamental data structure, algorithms, Java syntax, and how to solve unfamiliar problems. I know I still have a long way to go, but I am delighted in the process of learning. Although sometimes I get anxious, I believe the only certainty is that life is uncertain.
 
 
 ![photo]( /assets/img/cv/photo.png)
