@@ -4,7 +4,6 @@ title: About me
 feature-img: "assets/img/feature-img/bath.png"
 excerpt_separator: ""
 tags: [CV]
-music-id: "1442047041"
 ---
 
 
