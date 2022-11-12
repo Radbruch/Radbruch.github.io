@@ -4,6 +4,7 @@ title: About me
 feature-img: "assets/img/feature-img/bath.png"
 excerpt_separator: ""
 tags: [CV]
+music-id: 1892808687
 ---
 
 
@@ -31,7 +32,8 @@ tags: [CV]
 #### Machine Learning:
 * Machine Learning, Coursera, Stanford University.
 * Machine Learning, Hung-yi Lee.
-* Dive into deep learning.
+* Dive into deep learning.   
+
 #### Math and Stats:
 * Linear Algebra, Hung-yi Lee, National Taiwan University.
 * Probability - The Science of Uncertainty and Data, edX, MIT 6.431x.

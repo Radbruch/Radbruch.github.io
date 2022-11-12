@@ -18,6 +18,29 @@ tags: [Algorithms]
 ### Example of Algorithm Cost
 Objective: Determine if a sorted array contains any duplicates.
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-0pky">-3</td>
+    <td class="tg-0pky">-1</td>
+    <td class="tg-0pky">2</td>
+    <td class="tg-0pky">4</td>
+    <td class="tg-0pky">4</td>
+    <td class="tg-0pky">8</td>
+    <td class="tg-0pky">10</td>
+    <td class="tg-0pky">12</td>
+  </tr>
+</thead>
+</table>
+
 <b>Silly Algorithm:</b> Consider every pair, returning true if any match.
 
 <b>Better Algorithm:</b> Take advantage of the sorted nature of our array.
