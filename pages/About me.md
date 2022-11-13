@@ -13,7 +13,6 @@ music-id: 1892808687
 
 ## Education  
 2022 ~ Now: Master of Computer Science (Network Technology), Universiti Kebangsaan Malaysia.   
-2019 ~ Now: MITx MicroMaster Program in computer science program, edX.   
 2014 ~ 2018: Bachelor of Management, Accounting (ACCA), East China Jiaotong University.    
 
 ## Related MOOCs I took
