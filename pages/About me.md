@@ -11,10 +11,10 @@ music-id: 1892808687
 
 # 周玮晨(Zhou Weichen)
 
-## Education
+## Education  
+2022 ~ Now: Master of Computer Science (Network Technology), Universiti Kebangsaan Malaysia.   
+2019 ~ Now: MITx MicroMaster Program in computer science program, edX.   
 2014 ~ 2018: Bachelor of Management, Accounting (ACCA), East China Jiaotong University.    
-2019 ~ Now: MITx MicroMaster Program in computer science program, edX.  
-2022 ~ Now: Master of Computer Science (Network Technology), Universiti Kebangsaan Malaysia.
 
 ## Related MOOCs I took
 #### Programming:
